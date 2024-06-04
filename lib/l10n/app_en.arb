@@ -1,0 +1,99 @@
+{
+  "project_name": "Social Media  App (Vola)",
+  "app_name": "Vola",
+  "common_error": "Something went wrong",
+  "succsess": "Submission success",
+  "invalid_email": "Invalid email format",
+  "not_implemented_yet": "Not implemented yet!",
+  "common_or_all_caps": "OR",
+  "next": "Next",
+  "back": "Back",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "save": "Save",
+  "name": "Full Name",
+
+  "home": "Home",
+  "search": "Search",
+  "notifications": "Notifications",
+  "inbox": "inbox",
+  "upload_a_picture": "Upload a picture",
+  "picture_is_uploadet": "The image was uploaded",
+  "upload_a_banner": "Upload a banner",
+  "banner_is_uploadet": "The banner was uploaded",
+  "continue_with_apple": "Continue in with Apple",
+  "continue_with_google": "Continue in with Google",
+  "date_of_birth": "Date of Birth",
+  "forgot_password": "Forgot password?",
+  "introduct_yourself": "Introduce yourself. Join Vola and create your profile",
+  "agreee_to_terms": "By continuing, you agree to Vola's Terms of Service, Privacy Policy",
+  "already_have_an_account": "Already have an account?",
+  "enter_email_message": "To get started, enter your email address",
+  "create_your_account":"Create your account",
+  "enter_password": "Enter your password",
+  "fill_your_email": "Please fill out your email.",
+  "fill_all_the_fields": "Please fill out all fields.",
+  "complete_your_profile": "Complete your profile",
+  "for_you": "For you",
+  "following": "Following",
+  "followers": "Followers",
+  "draft": "Draft",
+  "share": "Post",
+  "everyone": "Everyone",
+  "circle": "Circle",
+  "reply_settings_everyone": "Everyone can reply",
+  "reply_settings_follows": "People you follow can reply",
+  "reply_settings_mention_only": "Only people you mention can reply",
+  "create_post_hint_text": "What is happening?!",
+  "edit_profile": "Edit Profile",
+  "namee": "Name",
+  "username": "UserName",
+  "bio": "Bio",
+  "posts": "Posts",
+  "replies": "Replies",
+  "media": "Media",
+  "likes": "Likes",
+  "no_posts_yet": "No posts yet!",
+  "post_count": "{count, plural, =0{No posts yet} =1{1 post} other{{count} posts}}",
+  "@post_count": {
+    "description": "The count of user posts",
+      "placeholders": {
+        "count": {
+          "type": "int",
+          "example": "10"
+        }
+      }
+    },
+  "mute_user": "Mute @{username}",
+  "@mute_user": {
+    "description": "Mute a user",
+      "placeholders": {
+        "username": {
+          "type": "String",
+          "example": "username"
+        }
+      }
+    } ,
+  "unfollow_user": "Unfollow @{username}",
+  "@unfollow_user": {
+    "description": "Unfollow user",
+      "placeholders": {
+        "username": {
+          "type": "String",
+          "example": "username"
+        }
+      }
+    },
+  "embed_post": "Embed post",
+  "follow_user": "Follow @{username}",
+  "@follow_user": {
+    "description": "Follow user",
+      "placeholders": {
+        "username": {
+          "type": "String",
+          "example": "username"
+        }
+      }
+    }  
+  }

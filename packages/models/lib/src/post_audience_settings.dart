@@ -1,0 +1,1 @@
+enum PostAudienceSettings { everyone, circle }

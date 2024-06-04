@@ -1,0 +1,99 @@
+{
+  "project_name": "Application de Réseaux Sociaux (Vola)",
+  "app_name": "Vola",
+  "common_error": "Quelque chose s'est mal passé",
+  "succsess": "Envoi réussi",
+  "invalid_email": "Format de courriel invalide",
+  "not_implemented_yet": "Pas encore implémenté!",
+  "common_or_all_caps": "OU",
+  "next": "Suivant",
+  "back": "Retour",
+  "email": "Courriel",
+  "password": "Mot de passe",
+  "login": "Connexion",
+  "save": "Enregistrer",
+  "name": "Nom complet",
+
+  "home": "Accueil",
+  "search": "Recherche",
+  "notifications": "Notifications",
+  "inbox": "Boîte de réception",
+  "upload_a_picture": "Télécharger une image",
+  "picture_is_uploadet": "L'image a été téléchargée",
+  "upload_a_banner": "Télécharger une bannière",
+  "banner_is_uploadet": "La bannière a été téléchargée",
+  "continue_with_apple": "Continuer avec Apple",
+  "continue_with_google": "Continuer avec Google",
+  "date_of_birth": "Date de naissance",
+  "forgot_password": "Mot de passe oublié?",
+  "introduct_yourself": "Présentez-vous. Rejoignez Vola et créez votre profil",
+  "agreee_to_terms": "En continuant, vous acceptez les Conditions d'utilisation et la Politique de confidentialité de Vola",
+  "already_have_an_account": "Vous avez déjà un compte?",
+  "enter_email_message": "Pour commencer, entrez votre adresse courriel",
+  "create_your_account": "Créez votre compte",
+  "enter_password": "Entrez votre mot de passe",
+  "fill_your_email": "Veuillez remplir votre courriel.",
+  "fill_all_the_fields": "Veuillez remplir tous les champs.",
+  "complete_your_profile": "Complétez votre profil",
+  "for_you": "Pour vous",
+  "following": "Abonnements",
+  "followers": "Abonnés",
+  "draft": "Brouillon",
+  "share": "Publier",
+  "everyone": "Tout le monde",
+  "circle": "Cercle",
+  "reply_settings_everyone": "Tout le monde peut répondre",
+  "reply_settings_follows": "Les personnes que vous suivez peuvent répondre",
+  "reply_settings_mention_only": "Seules les personnes que vous mentionnez peuvent répondre",
+  "create_post_hint_text": "Que se passe-t-il?!",
+  "edit_profile": "Éditer le profil",
+  "namee": "Nom",
+  "username": "Nom d'utilisateur",
+  "bio": "Bio",
+  "posts": "Publications",
+  "replies": "Réponses",
+  "media": "Médias",
+  "likes": "J'aime",
+  "no_posts_yet": "Pas encore de publications!",
+  "post_count": "{count, plural, =0{Pas encore de publications} =1{1 publication} other{{count} publications}}",
+  "@post_count": {
+    "description": "Le nombre de publications de l'utilisateur",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "10"
+      }
+    }
+  },
+  "mute_user": "Muet @{username}",
+  "@mute_user": {
+    "description": "Rendre un utilisateur muet",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "nomdutilisateur"
+      }
+    }
+  },
+  "unfollow_user": "Ne plus suivre @{username}",
+  "@unfollow_user": {
+    "description": "Ne plus suivre un utilisateur",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "nomdutilisateur"
+      }
+    }
+  },
+  "embed_post": "Intégrer la publication",
+  "follow_user": "Suivre @{username}",
+  "@follow_user": {
+    "description": "Suivre un utilisateur",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "nomdutilisateur"
+      }
+    }
+  }
+}

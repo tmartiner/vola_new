@@ -1,0 +1,100 @@
+{
+  "project_name": "Social Media App (Vola)",
+  "app_name": "Vola",
+  "common_error": "Etwas ist schief gelaufen",
+  "succsess": "Übermittlung erfolgreich",
+  "invalid_email": "Ungültiges E-Mail-Format",
+  "not_implemented_yet": "Noch nicht implementiert!",
+  "common_or_all_caps": "ODER",
+  "next": "Weiter",
+  "back": "Zurück",
+  "email": "E-Mail",
+  "password": "Passwort",
+  "login": "Anmelden",
+  "save": "Speichern",
+  "name": "Vollständiger Name",
+
+  "home": "Startseite",
+  "search": "Suche",
+  "notifications": "Benachrichtigungen",
+  "inbox": "Posteingang",
+  "upload_a_picture": "Bild hochladen",
+  "picture_is_uploadet": "Das Bild wurde hochgeladen",
+  "upload_a_banner": "Banner hochladen",
+  "banner_is_uploadet": "Das Banner wurde hochgeladen",
+  "continue_with_apple": "Mit Apple fortfahren",
+  "continue_with_google": "Mit Google fortfahren",
+  "date_of_birth": "Geburtsdatum",
+  "forgot_password": "Passwort vergessen?",
+ "introduct_yourself": "Stellen Sie sich vor und treten Sie Vola bei, um Ihr Profil zu erstellen",
+
+  "agreee_to_terms": "Durch Fortfahren stimmen Sie den Nutzungsbedingungen und der Datenschutzrichtlinie von Vola zu",
+  "already_have_an_account": "Haben Sie bereits ein Konto?",
+  "enter_email_message": "Um zu beginnen, geben Sie Ihre E-Mail-Adresse ein",
+  "create_your_account": "Erstellen Sie Ihr Konto",
+  "enter_password": "Geben Sie Ihr Passwort ein",
+  "fill_your_email": "Bitte füllen Sie Ihre E-Mail aus.",
+  "fill_all_the_fields": "Bitte füllen Sie alle Felder aus.",
+  "complete_your_profile": "Vervollständigen Sie Ihr Profil",
+  "for_you": "Für Sie",
+  "following": "Folgend",
+  "followers": "Follower",
+  "draft": "Entwurf",
+  "share": "Posten",
+  "everyone": "Jeder",
+  "circle": "Kreis",
+  "reply_settings_everyone": "Jeder kann antworten",
+  "reply_settings_follows": "Personen, denen Sie folgen, können antworten",
+  "reply_settings_mention_only": "Nur Personen, die Sie erwähnen, können antworten",
+  "create_post_hint_text": "Was passiert?!",
+  "edit_profile": "Profil bearbeiten",
+  "namee": "Name",
+  "username": "Benutzername",
+  "bio": "Biografie",
+  "posts": "Beiträge",
+  "replies": "Antworten",
+  "media": "Medien",
+  "likes": "Likes",
+  "no_posts_yet": "Noch keine Beiträge!",
+  "post_count": "{count, plural, =0{Noch keine Beiträge} =1{1 Beitrag} other{{count} Beiträge}}",
+  "@post_count": {
+    "description": "Die Anzahl der Benutzerbeiträge",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "10"
+      }
+    }
+  },
+  "mute_user": "Stummschalten @{username}",
+  "@mute_user": {
+    "description": "Einen Benutzer stummschalten",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "Benutzername"
+      }
+    }
+  },
+  "unfollow_user": "Nicht mehr folgen @{username}",
+  "@unfollow_user": {
+    "description": "Benutzer nicht mehr folgen",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "Benutzername"
+      }
+    }
+  },
+  "embed_post": "Beitrag einbetten",
+  "follow_user": "Folgen @{username}",
+  "@follow_user": {
+    "description": "Benutzer folgen",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "Benutzername"
+      }
+    }
+  }
+}

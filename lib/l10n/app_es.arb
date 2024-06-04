@@ -1,0 +1,99 @@
+{
+  "project_name": "Aplicación de Redes Sociales (Vola)",
+  "app_name": "Vola",
+  "common_error": "Algo salió mal",
+  "succsess": "Envío exitoso",
+  "invalid_email": "Formato de correo electrónico inválido",
+  "not_implemented_yet": "¡Aún no implementado!",
+  "common_or_all_caps": "O",
+  "next": "Siguiente",
+  "back": "Atrás",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "login": "Iniciar sesión",
+  "save": "Guardar",
+  "name": "Nombre completo",
+
+  "home": "Inicio",
+  "search": "Buscar",
+  "notifications": "Notificaciones",
+  "inbox": "Bandeja de entrada",
+  "upload_a_picture": "Subir una imagen",
+  "picture_is_uploadet": "La imagen fue subida",
+  "upload_a_banner": "Subir un banner",
+  "banner_is_uploadet": "El banner fue subido",
+  "continue_with_apple": "Continuar con Apple",
+  "continue_with_google": "Continuar con Google",
+  "date_of_birth": "Fecha de nacimiento",
+  "forgot_password": "¿Olvidaste tu contraseña?",
+  "introduct_yourself": "Preséntate. Únete a Vola y crea tu perfil",
+  "agreee_to_terms": "Al continuar, aceptas los Términos de Servicio y la Política de Privacidad de Vola",
+  "already_have_an_account": "¿Ya tienes una cuenta?",
+  "enter_email_message": "Para comenzar, introduce tu correo electrónico",
+  "create_your_account": "Crea tu cuenta",
+  "enter_password": "Introduce tu contraseña",
+  "fill_your_email": "Por favor, rellena tu correo electrónico.",
+  "fill_all_the_fields": "Por favor, rellena todos los campos.",
+  "complete_your_profile": "Completa tu perfil",
+  "for_you": "Para ti",
+  "following": "Siguiendo",
+  "followers": "Seguidores",
+  "draft": "Borrador",
+  "share": "Publicar",
+  "everyone": "Todos",
+  "circle": "Círculo",
+  "reply_settings_everyone": "Todos pueden responder",
+  "reply_settings_follows": "Las personas que sigues pueden responder",
+  "reply_settings_mention_only": "Solo las personas que mencionas pueden responder",
+  "create_post_hint_text": "¿Qué está pasando?",
+  "edit_profile": "Editar perfil",
+  "namee": "Nombre",
+  "username": "Nombre de usuario",
+  "bio": "Biografía",
+  "posts": "Publicaciones",
+  "replies": "Respuestas",
+  "media": "Medios",
+  "likes": "Me gusta",
+  "no_posts_yet": "¡Aún no hay publicaciones!",
+  "post_count": "{count, plural, =0{Aún no hay publicaciones} =1{1 publicación} other{{count} publicaciones}}",
+  "@post_count": {
+    "description": "La cantidad de publicaciones del usuario",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "10"
+      }
+    }
+  },
+  "mute_user": "Silenciar a @{username}",
+  "@mute_user": {
+    "description": "Silenciar a un usuario",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "nombredeusuario"
+      }
+    }
+  },
+  "unfollow_user": "Dejar de seguir a @{username}",
+  "@unfollow_user": {
+    "description": "Dejar de seguir a un usuario",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "nombredeusuario"
+      }
+    }
+  },
+  "embed_post": "Incrustar publicación",
+  "follow_user": "Seguir a @{username}",
+  "@follow_user": {
+    "description": "Seguir a un usuario",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "nombredeusuario"
+      }
+    }
+  }
+}

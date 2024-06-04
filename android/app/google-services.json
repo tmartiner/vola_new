@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901584396201",
+    "project_id": "vola-976e5",
+    "storage_bucket": "vola-976e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901584396201:android:24e370fcd898a46733eeb8",
+        "android_client_info": {
+          "package_name": "com.example.vola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FAfTc7A3y8dqg7yzHMXr0YJX0jBp9ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
